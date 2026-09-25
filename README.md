@@ -1,7 +1,7 @@
 # A Two-Player Rock, Paper, Scissors
 
 **Name:** Jonas Dave H. Adarlo  
-**Section:** Your Section
+**Section:** ILFV3
 
 ## Description
 
@@ -14,10 +14,3 @@ Open the project folder in a terminal and run:
 
 ```bash
 dart rock_paper_scissors.dart
-
-Replace:
-
-```text
-Jonas Dave H. Adarlo
-ILFV3
-```text
