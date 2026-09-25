@@ -111,8 +111,8 @@ void main() {
     // P 1 enters a move.
     String playerOneMove = getMove(playerOneName);
 
-    // print about 5 blank lines to hide P 1's move.
-    for (int line = 0; line < 5; line++) {
+    // print about 10 blank lines to hide P 1's move.
+    for (int line = 0; line < 10; line++) {
       print('');
     }
 
